@@ -1,4 +1,4 @@
-// C++ linear time solution for stock span problem
+
 #include <iostream>
 #include <stack>
 using namespace std;
